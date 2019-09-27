@@ -1,0 +1,52 @@
+
+
+body, strong {
+
+
+color: red;
+text-align: center;
+font-family: Times new Roman;
+font-size: 25px;
+padding-top: 15px;
+
+
+}
+
+strong:hover {
+	color: rgb(157,222,167);
+	text-transform: uppercase;
+}
+
+.foto{
+
+
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+   width: 60%;
+   height: 60%;
+   padding: 25px 25px 25px 25px;
+
+
+
+}
+
+.btn {
+
+
+border-radius: 300px ;
+background-color: pink;
+text-decoration-color: white;
+padding: 5px 5px 5px 5px;
+font-size:30px;
+justify-content: center;
+margin:5px 5px 5px 5px;
+
+
+}
+.btn:hover {
+
+background-color: rgb(124,216,189);
+cursor: pointer;
+
+}
